@@ -1,0 +1,1 @@
+print("This is Cloud Computing practical")
